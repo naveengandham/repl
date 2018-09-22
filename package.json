@@ -1,0 +1,14 @@
+{
+"name": "@naveengandham/repl",
+"version": "1.0.0"
+"description": "Replaces spaces in the given string",
+  "license": "MIT",
+  "repository": "naveengandham/repl",
+  "main": "index.js",
+  "keywords": [
+    "repl",
+    "npm",
+    "package",
+    "naveengandham"
+  ]
+}
